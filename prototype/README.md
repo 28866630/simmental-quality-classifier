@@ -4,9 +4,8 @@ This folder contains the **prototype implementation** that demonstrates the prac
 The prototype connects a **Flask backend** with a **Flutter frontend**, running inference with a TensorFlow Lite model.
 
 ## Contents
-- `backend/` – Flask server for preprocessing and inference.  
+- `cow_api/` – Flask server for preprocessing and inference.  
 - `frontend/` – Flutter Web application for user interaction.  
-- `models/` – TensorFlow Lite (`.tflite`) model used for deployment.  
 - `tests/` – Unit and integration tests for backend and frontend.  
 
 ## Usage
